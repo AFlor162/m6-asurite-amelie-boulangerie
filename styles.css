@@ -61,7 +61,7 @@ nav a {
     background-color: #e0e5de;
     color:#141a1a;
     text-decoration: none;
-   font-weight: bold;
+   font-weight: bold;}
 
 nav li:first-child , nav a:hover {
     background-color: #f28095;
